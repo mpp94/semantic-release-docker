@@ -26,6 +26,10 @@
   "keywords": [
     "semantic-release"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mpp94/semantic-release-docker.git"
+  },
   "author": "Miguel Perez",
   "license": "MIT",
   "publishConfig": {
