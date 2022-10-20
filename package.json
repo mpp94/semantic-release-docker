@@ -1,7 +1,7 @@
 {
   "name": "@mpp94/semantic-release-docker",
   "private": false,
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "docker package",
   "main": "index.js",
   "files": [
